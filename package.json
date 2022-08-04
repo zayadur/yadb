@@ -1,0 +1,36 @@
+{
+  "name": "yadb",
+  "description": "Yet Another Discord Bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zayadur/yadb.git"
+  },
+  "keywords": [
+    "yet",
+    "another",
+    "discord",
+    "bot",
+    "discord",
+    "bot",
+    "discord",
+    "server",
+    "server"
+  ],
+  "author": "zayadur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zayadur/yadb/issues"
+  },
+  "homepage": "https://github.com/zayadur/yadb#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.1",
+    "discord.js": "^13.8.1"
+  }
+}
